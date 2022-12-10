@@ -35,9 +35,9 @@
 [35m[ADB][39m Using 'adb.exe' from 'C:\Users\cahya\.katalon\tools\android_sdk\platform-tools\adb.exe'
 [35m[ADB][39m Package name: 'com.foody.vn.activity'
 [35m[ADB][39m Main activity name: 'com.foody.ui.activities.NewFlashActivity'
-[35m[UiAutomator2][39m Unable to force stop app: Error executing adbExec. Original error: 'Command 'C:\\Users\\cahya\\.katalon\\tools\\android_sdk\\platform-tools\\adb.exe -P 5037 -s emulator-5554 shell am force-stop com.foody.vn.activity' exited with code 1'; Command output: error: closed
+[35m[UiAutomator2][39m Unable to force stop app: Error executing adbExec. Original error: 'Command 'C:\\Users\\cahya\\.katalon\\tools\\android_sdk\\platform-tools\\adb.exe -P 5037 -s emulator-5554 shell am force-stop com.foody.vn.activity' exited with code 1'; Command output: error: closed
 [35m[UiAutomator2][39m 
-[35m[UiAutomator2][39m Unable to remove system port forward: Error executing adbExec. Original error: 'Command 'C:\\Users\\cahya\\.katalon\\tools\\android_sdk\\platform-tools\\adb.exe -P 5037 -s emulator-5554 forward --remove tcp\:49987' exited with code 1'; Command output: adb.exe: error: listener 'tcp:49987' not found
+[35m[UiAutomator2][39m Unable to remove system port forward: Error executing adbExec. Original error: 'Command 'C:\\Users\\cahya\\.katalon\\tools\\android_sdk\\platform-tools\\adb.exe -P 5037 -s emulator-5554 forward --remove tcp\:49987' exited with code 1'; Command output: adb.exe: error: listener 'tcp:49987' not found
 [35m[UiAutomator2][39m 
 [35m[HTTP][39m [37m<-- POST /wd/hub/session [39m[31m500[39m [90m650 ms - 1155[39m
 [35m[HTTP][39m [90m[39m
